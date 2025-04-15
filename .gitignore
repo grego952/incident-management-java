@@ -1,0 +1,6 @@
+node_modules/
+gen/
+
+*.mtar
+mta_archives/
+mta.yaml
